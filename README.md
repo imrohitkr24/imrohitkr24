@@ -1,37 +1,71 @@
-<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">A passionate frontend & Java developer from India</h3>
+# 🌟 Hi, I'm Rohit Kumar!
+### Full Stack Developer | CSE'27 | Problem Solver  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imrohitkr24&label=Profile%20views&color=0e75b6&style=flat" alt="imrohitkr24" /> </p>
+🚀 Passionate about building impactful web applications, writing clean code, and solving real-world problems with technology.  
+I work with **React, Node.js, MongoDB, Express, Tailwind CSS, Java, and C++**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imrohitkr24" alt="imrohitkr24" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Sachi Ghani Musturd Oil**
+## 🧑‍💻 About Me
+- 🎓 B.Tech CSE (Batch 2027)
+- 💼 Working on real-world projects like **BizFusion**, **Pixel Pallets**, and **Real-Time Process Monitoring Dashboard**
+- 🌱 Currently learning: Advanced JavaScript, Backend APIs, Cloud Deployment
+- 🛠 Interested in: Dashboards, Web Apps, System Design, Automation
+- 🧪 Improving in: DSA & Algorithmic Problem Solving
 
-- 🌱 I’m currently learning **SQL**
+---
 
-- 👯 I’m looking to collaborate on **Java Project**
+## ⚡ Tech Stack
 
-- 🤝 I’m looking for help with **Git**
+### **Frontend**
+React • JavaScript • HTML5 • CSS3 • Tailwind CSS  
 
-- 👨‍💻 All of my projects are available at [GitHub..](GitHub..)
+### **Backend**
+Node.js • Express.js • PHP • REST APIs  
 
-- 📝 I regularly write articles on [LinkedIn](LinkedIn)
+### **Databases**
+MongoDB • MySQL  
 
-- 💬 Ask me about **Java**
+### **Programming Languages**
+C++ • Java • JavaScript • PHP  
 
-- 📫 How to reach me **imrohitkr24@gmail.com**
+### **Tools**
+Git • GitHub • VS Code • Postman • Figma • Linux  
 
-- ⚡ Fun fact **I use to Ride Bike..**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/imrohitkr24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imrohitkr24" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohit240803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohit240803" height="30" width="40" /></a>
-</p>
+## 🔥 Highlighted Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 🚀 BizFusion – Business Management Web Platform
+A platform to help businesses manage inventory, employees, and finances.  
+**Tech:** React • Node.js • MongoDB • Tailwind CSS  
+🔗 *GitHub Repo:* (Add link)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrohitkr24&show_icons=true&locale=en&layout=compact" alt="imrohitkr24" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrohitkr24&show_icons=true&locale=en" alt="imrohitkr24" /></p>
+### 🎨 Pixel Pallets — E-Commerce Store for Mustard Oil Brand
+Full e-commerce platform with product listing, cart, checkout, and secure payments.  
+**Tech:** React • Node.js • MongoDB  
+🔗 GitHub: (Add link)
+
+---
+
+### 📡 Real-Time Process Monitoring Dashboard
+Real-time dashboard that monitors running processes using WebSockets.  
+**Tech:** Node.js • Express • Socket.IO • HTML • CSS • JS  
+
+---
+
+## 🏆 Achievements
+- 🥇 **University Rank 6** – Code-A-Haunt (March 2024)  
+- 🤝 Completed social work internship at *Amar Trishala Sewa Sadan*  
+- 🌱 Planted a tree on last day of internship  
+- 🧑‍⚕️ Visited and supported patients during field visits  
+
+---
+
+## 🎮 Mini Game: Typing Speed Challenge
+
+Test your typing speed!  
+Type the sentence shown below as fast as you can ⌨️⚡
+
