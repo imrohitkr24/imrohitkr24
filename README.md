@@ -35,9 +35,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Competitive Programming & Coding Profiles
 
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://leetcode.com/u/rohit240803/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Rohit240803-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+  <a href="https://www.hackerrank.com/profile/rks9835070230" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-rks9835070230-green?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
 
