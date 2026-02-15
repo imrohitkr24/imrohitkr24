@@ -1,37 +1,45 @@
-<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">A passionate frontend & Java developer from India</h3>
+# Hi 👋, I'm Rohit Kumar
+🎓 B.Tech CSE Student (2027 Batch)
+💻 Passionate Full Stack Developer
+🚀 Interested in Backend & System Design
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imrohitkr24&label=Profile%20views&color=0e75b6&style=flat" alt="imrohitkr24" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imrohitkr24" alt="imrohitkr24" /></a> </p>
+## 🧑‍💻 About Me
+- 🌱 Currently learning: Data Structures & Algorithms
+- 🔥 Building real-world projects using MERN Stack
+- 🎯 Goal: Software Developer at Product-Based Company
+- 📫 How to reach me: your-email@gmail.com
 
-- 🔭 I’m currently working on **Sachi Ghani Musturd Oil**
+---
 
-- 🌱 I’m currently learning **SQL**
+## 🚀 Tech Stack
 
-- 👯 I’m looking to collaborate on **Java Project**
+### 💻 Programming
+- C++
+- Java
+- JavaScript
 
-- 🤝 I’m looking for help with **Git**
+### 🌐 Web Development
+- HTML
+- CSS
+- Tailwind CSS
+- Node.js
+- Express.js
+- MongoDB
 
-- 👨‍💻 All of my projects are available at [GitHub..](GitHub..)
+---
 
-- 📝 I regularly write articles on [LinkedIn](LinkedIn)
+## 📌 Featured Projects
+🔹 Environment Pollution Management System  
+🔹 Sachi-Ghani NGO Platform  
+🔹 Real-Time Process Monitoring Dashboard  
 
-- 💬 Ask me about **Java**
+---
 
-- 📫 How to reach me **imrohitkr24@gmail.com**
+## 📊 GitHub Stats
 
-- ⚡ Fun fact **I use to Ride Bike..**
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/imrohitkr24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imrohitkr24" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohit240803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohit240803" height="30" width="40" /></a>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrohitkr24&show_icons=true&locale=en&layout=compact" alt="imrohitkr24" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrohitkr24&show_icons=true&locale=en" alt="imrohitkr24" /></p>
