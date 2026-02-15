@@ -38,11 +38,11 @@
 ## 🧠 Competitive Programming & Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/rohit240803/" target="_blank">
+  <a href="https://leetcode.com/u/imrohitkr24/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Rohit240803-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 
-  <a href="https://www.hackerrank.com/profile/rks9835070230" target="_blank">
+  <a href="https://www.hackerrank.com/profile/imrohitkr24" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-rks9835070230-green?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
