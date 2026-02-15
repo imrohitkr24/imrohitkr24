@@ -49,57 +49,64 @@
 
 
 
-# 🎮 AlgoWar – Mini DSA Battle Game ⚔️🧠
+# 🎮 AlgoWar – DSA Battle Arena ⚔️🧠
 
 > Choose the correct algorithm to defeat the enemy!
 
-<div align="center">
+---
 
-<h3 id="enemy">🐉 Enemy: Dynamic Programming Dragon</h3>
-<p id="health">Enemy Health: 100 ❤️</p>
-
-<button onclick="attack('Binary Search')">⚡ Binary Search</button>
-<button onclick="attack('DFS')">🌳 DFS</button>
-<button onclick="attack('Dynamic Programming')">🧠 Dynamic Programming</button>
-<button onclick="attack('Greedy')">🎯 Greedy</button>
-
-<p id="result"></p>
-
-</div>
-
-<script>
-let health = 100;
-const correctAlgorithm = "Dynamic Programming";
-
-function attack(choice) {
-    if (health <= 0) return;
-
-    if (choice === correctAlgorithm) {
-        health -= 40;
-        document.getElementById("result").innerHTML =
-            "🔥 Correct! Super Effective Attack!";
-    } else {
-        health -= 10;
-        document.getElementById("result").innerHTML =
-            "❌ Weak Attack! Wrong Algorithm!";
-    }
-
-    if (health <= 0) {
-        document.getElementById("enemy").innerHTML =
-            "🏆 Enemy Defeated! You Mastered DP!";
-        document.getElementById("health").innerHTML = "Enemy Health: 0 ❤️";
-    } else {
-        document.getElementById("health").innerHTML =
-            "Enemy Health: " + health + " ❤️";
-    }
-}
-</script>
+## 🐉 Enemy: Dynamic Programming Dragon  
+❤️ Health: 100  
 
 ---
 
-### 🚀 About This Game
-AlgoWar is a fun DSA battle simulation where algorithms act as weapons.
-Choosing the correct algorithm defeats the enemy faster.
+<details>
+<summary>⚡ Attack with Binary Search</summary>
+
+❌ Weak Attack!  
+The Dragon resists divide & conquer!
+
+❤️ Health Remaining: 90
+
+</details>
+
+<details>
+<summary>🌳 Attack with DFS</summary>
+
+❌ Not Effective!  
+The Dragon is not a graph problem!
+
+❤️ Health Remaining: 80
+
+</details>
+
+<details>
+<summary>🎯 Attack with Greedy</summary>
+
+❌ Wrong Strategy!  
+Greedy fails for optimal substructure here!
+
+❤️ Health Remaining: 70
+
+</details>
+
+<details>
+<summary>🧠 Attack with Dynamic Programming</summary>
+
+🔥 SUPER EFFECTIVE!  
+You identified overlapping subproblems!
+
+🏆 Enemy Defeated!  
+❤️ Health: 0  
+
+</details>
+
+---
+
+## 🚀 About This Game
+
+AlgoWar is a creative DSA battle simulation where algorithms act as weapons.  
+The goal is to select the correct algorithm based on the problem pattern.
 
 ⚡ Focus: Algorithm Selection  
 🧠 Skill: Logical Thinking  
@@ -107,5 +114,5 @@ Choosing the correct algorithm defeats the enemy faster.
 
 ---
 
-💻 Built with HTML + JavaScript  
+💻 Built creatively using Markdown  
 🔥 Created by Rohit Kumar
