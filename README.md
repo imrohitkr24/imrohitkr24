@@ -4,19 +4,19 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🌱 Currently learning: Data Structures & Algorithms
+- 🌱 Currently Focused on enhancing problem solving skills by practicing  Data Structures & Algorithms using Java.
 - 🔥 Building real-world projects using MERN Stack
 - 🎯 Goal: Software Developer at Product-Based Company
-- 📫 How to reach me: your-email@gmail.com
+- 📫 How to reach me: imrohitkr24@gmail.com
 
 ---
 
 ## 🚀 Tech Stack
 
 ### 💻 Programming
-- C++
 - Java
-- JavaScript
+- DSA
+- Java Script
 
 ### 🌐 Web Development
 - HTML
@@ -30,7 +30,7 @@
 
 ## 📌 Featured Projects
 🔹 Environment Pollution Management System  
-🔹 Sachi-Ghani NGO Platform  
+🔹 Sachi-Ghani Musturd oil   
 🔹 Real-Time Process Monitoring Dashboard  
 
 ---
