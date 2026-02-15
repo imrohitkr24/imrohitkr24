@@ -1,7 +1,5 @@
 # Hi 👋, I'm Rohit Kumar
-🎓 B.Tech CSE Student (2027 Batch)
-💻 Passionate Full Stack Developer
-🚀 Interested in Backend & System Design
+💻 Full Stack Developer | ⚙️ Backend & System Design Learner | 🎓 B.Tech CSE (2027) | 🚀 Turning Ideas into Production-Ready Applications
 
 ---
 
