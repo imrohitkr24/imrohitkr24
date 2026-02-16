@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Developer | ⚙️ Backend & System Design Learner | 🚀 Future Product Engineer</h3>
 
 <p align="center">
-  🎓 B.Tech CSE (2027) | 🧠 DSA Enthusiast | 🔥 Building Production-Ready Applications
+  🎓 B.Tech CSE (2027) | 🧠 DSA Enthusiast | 🔥 Building Production-Ready Applications..
 </p>
 
 ---
