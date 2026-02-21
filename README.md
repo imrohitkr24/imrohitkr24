@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me..
 
 🔹 Passionate about solving real-world problems through scalable backend systems  
 🔹 Strengthening core fundamentals with Data Structures & Algorithms (Java)  
