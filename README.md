@@ -36,7 +36,7 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects..
 
 ### 🌍 Environment Pollution Management System
 Full-stack platform to monitor and manage pollution-related data using REST APIs.  
