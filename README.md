@@ -71,7 +71,7 @@ Business product showcase & management system.
 
 
 
-## 🎯 Current Focus
+## 🎯 Current Focus..
 
 ✔ Advanced Data Structures  
 ✔ Backend Scalability  
