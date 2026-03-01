@@ -80,7 +80,7 @@ Business product showcase & management system.
 
 ---
 
-## 💡 Developer Philosophy..
+## 💡 Developer Philosophy...
 
 > “Consistency builds mastery. Optimization builds engineers.” 🚀
 
