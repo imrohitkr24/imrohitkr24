@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Tech Stack...
+## 🛠️ Tech Stack..
 
 ### 💻 Languages & Core
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -71,7 +71,7 @@ Business product showcase & management system.
 
 
 
-## 🎯 Current Focus...
+## 🎯 Current Focus..
 
 ✔ Advanced Data Structures  
 ✔ Backend Scalability  
@@ -80,7 +80,7 @@ Business product showcase & management system.
 
 ---
 
-## 💡 Developer Philosophy...
+## 💡 Developer Philosophy..
 
 > “Consistency builds mastery. Optimization builds engineers..” 🚀
 
