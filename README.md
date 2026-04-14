@@ -52,7 +52,7 @@ Business product showcase & management system.
 
 ---
 
-## 🧠 Competitive Programming..
+## 🧠 Competitive Programming...
 
 🚀 Active on LeetCode & HackerRank  
 🔥 Focused on Arrays, Trees, Graphs & Dynamic Programming  
